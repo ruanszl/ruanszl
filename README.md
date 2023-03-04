@@ -22,3 +22,5 @@
    <img align="center" alt="btc" heigth="100" width="88" src="https://img.shields.io/badge/Bitcoin-7A0367?logo=bitcoin&logoColor=black">
    <img align="center" alt="eth" heigth="100" width="110" src="https://img.shields.io/badge/Ethereum-7A0367?logo=Ethereum&logoColor=black">
 </div>
+![snake animation](https://github.com/ruanszl/ruanszl/blob/output/github-contribution-grid-snake.svg)
+
