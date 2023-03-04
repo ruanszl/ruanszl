@@ -19,6 +19,6 @@
 
 <div>
    <img align="center" alt="Binance" heigth="100" width="130" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
-   <img align="center" alt="btc" heigth="100" width="130" src="https://img.shields.io/badge/Bitcoin-E805FB?style=for-the-badge&logo=bitcoin&logoColor=pink">
+   <img align="center" alt="btc" heigth="100" width="130" src="https://img.shields.io/badge/Bitcoin-00000?style=for-the-badge&logo=bitcoin&logoColor=pink">
    <img align="center" alt="eth" heigth="50" width="130" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=blue">
 </div>
