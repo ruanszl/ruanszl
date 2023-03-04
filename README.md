@@ -3,7 +3,7 @@
 #### Welcome
 
 <div>
-   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanszl&layout=campact&langs_count=12&theme=dracula"/_>
+   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanszl&show_icons=true&layout=compact&theme=radical">
 </div>
 <p>
 <div>
@@ -14,4 +14,10 @@
   <img align="center" alt="REACT" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="SOL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
   <img align="center" alt="ETH" heigth="120" width="100" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
+</div>
+
+##
+
+<div>
+   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruanszl&theme=radical&repo=github-readme-stats">
 </div>
