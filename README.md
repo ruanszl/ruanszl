@@ -18,6 +18,3 @@
 
 ##
 
-<div>
-   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruanszl&theme=radical&repo=github-readme-stats">
-</div>
