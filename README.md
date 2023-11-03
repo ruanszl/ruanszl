@@ -13,6 +13,7 @@
   <img align="center" alt="NODE" heigth="30" width="40" src="https://img.icons8.com/windows/64/EA08C0/nodejs.png">
   <img align="center" alt="REACT" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="SOL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
+  <img align="center" alt="SOL" heigth="30" width="40" src="https://ti-services.totvs.com.br/cst/img/totvs-icon-text-black.svg">
 </div>
 
 ##
